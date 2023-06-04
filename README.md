@@ -19,8 +19,13 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" /></a>&nbsp;
     </br>
     </br>
-    <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" </a>&nbsp;
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>&nbsp;
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" /> </a>&nbsp;
+    </br>
+    </br>
+    <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" </a>&nbsp;
+    </br>
+    </br>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>&nbsp;
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 </p>
