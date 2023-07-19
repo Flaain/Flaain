@@ -28,6 +28,7 @@
 ![Flain's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaain) </br></br>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Flaain)](https://leetcode.com/Flaain) </br></br>
 [![codewars Stats](https://www.codewars.com/users/Flain/badges/large)](https://www.codewars.com/users/flain)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Flaain)](https://git.io/streak-stats)
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
