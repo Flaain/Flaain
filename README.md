@@ -1,4 +1,3 @@
-<img src="https://github.com/Flaain/Flaain/blob/main/header.png" alt="banner" />
 <h2 align="left">Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>&nbsp;
