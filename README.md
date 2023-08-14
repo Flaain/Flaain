@@ -21,7 +21,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :book: Love reading 
-- :hourglass_flowing_sand: Exploring React JS & TypeScript 
+- :hourglass_flowing_sand: Exploring React & TypeScript 
 - :rocket: Always ready to collaborate for Dev Experiments
 
 <h2 align="left">📈 Stats:</h2>
