@@ -28,7 +28,7 @@
 
 <h2 align="left">My projects: </h2>
 
-- MERN Pizza Shop - <a href="https://react-pizza-client.onrender.com">Live Demo</a>
+- :pizza: MERN Pizza Shop - <a href="https://react-pizza-client.onrender.com">Live Demo</a>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
