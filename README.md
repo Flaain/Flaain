@@ -26,6 +26,10 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 </p>
 
+<h2 align="left">My projects: </h2>
+
+- MERN Pizza Shop - <a href="https://react-pizza-client.onrender.com">Live Demo</a>
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :book: Love reading 
