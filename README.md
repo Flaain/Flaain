@@ -14,7 +14,6 @@
     <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="react" /> </a>&nbsp;
     </br>
     </br>
-    <a href="https://reactrouter.com/en/main" target="_blank"> <img src="https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=react-router&logoColor=red" alt="react router"/> </a>&nbsp;
     <a href="https://redux-toolkit.js.org/introduction/getting-started" target="_blank"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a>&nbsp;
     </br>
     </br>
@@ -29,19 +28,6 @@
 <h2 align="left">My projects: </h2>
 
 - :pizza: MERN Pizza Shop - <a href="https://react-pizza-client.onrender.com">Live Demo</a>
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :book: Love reading 
-- :hourglass_flowing_sand: Exploring React & TypeScript 
-- :rocket: Always ready to collaborate for Dev Experiments
-
-<h2 align="left">📈 Stats:</h2>
-
-[![Codewars Stats](https://www.codewars.com/users/Flain/badges/large)](https://www.codewars.com/users/flain) </br></br>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Flaain)](https://leetcode.com/Flaain) </br></br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Flaain)](https://git.io/streak-stats) </br></br>
-![Flain's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaain)
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
