@@ -11,14 +11,15 @@
     </br>
     </br>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>&nbsp;
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="react" /> </a>&nbsp;
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next" /> </a>&nbsp;
     </br>
     </br>
     <a href="https://redux-toolkit.js.org/introduction/getting-started" target="_blank"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a>&nbsp;
+    <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank"> <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge" alt="zustand"/> </a>&nbsp;
     </br>
     </br>
-    <a href="https://docs.nestjs.com/"><img src="https://img.shields.io/badge/NESTJS-red?style=for-the-badge&logo=nestjs" alt="NESTJS" /></a>&nbsp;
-    <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>&nbsp;
+    <a href="https://docs.nestjs.com/"><img src="https://img.shields.io/badge/NESTJS-red?style=for-the-badge&logo=nestjs" alt="nest" /></a>&nbsp;
+    <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" /></a>&nbsp;
     </br>
     </br>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>&nbsp;
