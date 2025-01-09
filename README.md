@@ -27,7 +27,7 @@
 
 <h2 align="left">My projects: </h2>
 
-- :pizza: MERN Pizza Shop - <a href="https://react-pizza-client.onrender.com">Live Demo</a>
+- 
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
