@@ -28,7 +28,7 @@
 
 <h2 align="left">My projects: </h2>
 
-- 
+- <a href="https://syncmate.ru" target="_blank">Syncmate - Sync Your Chats, Sync Your Life</a>&nbsp;
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
